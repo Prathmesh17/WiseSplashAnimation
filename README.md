@@ -9,8 +9,6 @@ This repository contains the splash animation implementation used in the Wise Mo
 
 Watch the animation in action:
 
-[▶️ Click here to watch the demo]
-
 https://github.com/user-attachments/assets/208238d1-9f6d-4095-b2fa-b65b0d64bc15
 
 
